@@ -1,4 +1,3 @@
--- Hi, my name is Hai. Here is my solution regarding to this assignment :)
 -- Please run this query in MySQL platform, it would return some syntax errors if you are using another platform, thank you in advance :)
 -- Create queries
 create TABLE if not exists BLACKLIST (
